@@ -1,0 +1,12 @@
+How to build with legos:
+
+Tools needed:
+legos - classes?
+instructions - data from outside source.(maybe) url?
+
+We can make classes to create a blueprint for the boxes/legos. 
+We could then have a could copy the coordinates and dimentions of a premade model given to the code.
+In the real world, we would simply look at the instructions and click the pieces together.
+In the code, we will have to give the code specific instructions to look at the data, copy it,
+enter it into the code, and finalize it. 
+It would also need to be able to call on the class in main.py.
